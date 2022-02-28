@@ -9,4 +9,4 @@ ___
 * JavaScript (jQuery, Popper)
 * Web-fonts (Roboto)
 ___
-[Открыть страницу](ссыль)
+[Открыть страницу](https://nsofina.github.io/task_5.11)
